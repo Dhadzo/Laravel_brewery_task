@@ -16,4 +16,4 @@ This is a laravel app that makes use of the https://api.openbrewerydb.org/brewer
 
 -   Please note that only one backend test for the /breweries endpoint was added.
 -   To run the test please navigate to the project root folder.
--   Type the command php artisan test.
+-   Type the command php artisan test
